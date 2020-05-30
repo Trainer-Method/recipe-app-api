@@ -1,13 +1,6 @@
-# Recipe App API
+# THE ORACLE API
 
-Source code for my Udemy course Build a [Backend REST API with Python & Django - Advanced](http://udemy.com/django-python-advanced/).
-
-The course teaches how to build a fully functioning REST API using:
-
- - Python
- - Django / Django-REST-Framework
- - Docker / Docker-Compose
- - Test Driven Development
+Main API for the Yin Yang Financial Network and MogulSocial.com
 
 ## Getting started
 
